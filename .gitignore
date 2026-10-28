@@ -1,0 +1,21 @@
+# ROS 2 / colcon generated directories
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.swp
+*~
+results/
+samarth_arm_portfolio.zip
